@@ -52,3 +52,5 @@ One of my less public hobbies. I usually contribute to the Korean translation fo
 
 A newer hobby I picked up. Mostly remixes of original songs from the *ZUN's Music Collection* series related to the Hifuu Club.
 
+- [Soundcloud](https://soundcloud.com/cyan-aqua)
+  - Relatively new account made for fun.
