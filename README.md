@@ -48,7 +48,7 @@ One of my less public hobbies. I usually contribute to the Korean translation fo
 - [Crowdin](https://crowdin.com/profile/cyanaqua)
 
 ## Music
-[Download remix of 'Trojan Asteroid Jungle' by ZUN from ZUN's Music Collection vol. 6](https://github.com/CyanAqua12/CyanAqua12/raw/refs/heads/main/trojanasteroidjungle.mp3)
+[Touhou Arrange - Night Sky of Mysteries on Soundcloud](https://soundcloud.com/cyan-aqua/night-sky-of-mysteries)
 
 A newer hobby I picked up. Mostly remixes of original songs from the *ZUN's Music Collection* series related to the Hifuu Club.
 
