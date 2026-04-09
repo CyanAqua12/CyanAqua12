@@ -11,7 +11,7 @@ My main hobby. I mostly draw **Renko Usami** and **Maribel Hearn** from Touhou p
 
 - [Bluesky](https://bsky.app/profile/cyanaqua.bsky.social)
   - Main social media account, all recent Touhou illustrations are uploaded here.
-  - - [Twitter](https://x.com/CyanAqua1)
+- [Twitter](https://x.com/CyanAqua1)
   - Tertiary social media account, used as both an archive of my more recent drawings, and a repost account for other Hifuu artwork I come across.
 - [Pixiv](https://www.pixiv.net/en/users/76982948)
   - Tertiary social media account, mostly used as an archive of my drawings. Mostly identical to the drawings on Bluesky.
