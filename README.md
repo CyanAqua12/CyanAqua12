@@ -11,12 +11,12 @@ My main hobby. I mostly draw **Renko Usami** and **Maribel Hearn** from Touhou p
 
 - [Bluesky](https://bsky.app/profile/cyanaqua.bsky.social)
   - Main social media account, all recent Touhou illustrations are uploaded here.
+  - - [Twitter](https://x.com/CyanAqua1)
+  - Tertiary social media account, used as both an archive of my more recent drawings, and a repost account for other Hifuu artwork I come across.
 - [Pixiv](https://www.pixiv.net/en/users/76982948)
-  - Secondary social media account, mostly used as an archive of my drawings. Mostly identical to the drawings on Bluesky.
+  - Tertiary social media account, mostly used as an archive of my drawings. Mostly identical to the drawings on Bluesky.
 - [Neocities](https://cyanaqua.neocities.org/)
   - Art dump website, where I reveal my thought process the most. Lags behind Bluesky and Pixiv, but has a lot of detailed explanations. Note that a lot of older drawings have missing pages.
-- [Twitter](https://x.com/CyanAqua1)
-  - Used to just be an account for shitposting, but picked back up recently. Acts mostly as a backup to Bluesky and Pixiv.
 - [Discord Server](https://discord.gg/9CSc6Vqx7g)
   - Mostly dead server where I occasionally upload illustrations.
  
