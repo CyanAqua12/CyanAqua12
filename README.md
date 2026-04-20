@@ -5,7 +5,7 @@ Hi! I'm CyanAqua, an amateur hobbyist.
 I do various things. Check out below to see what they are!
 
 ## Illustration
-<img src="https://cyanaqua.neocities.org/images/drawings/sky_and_sea.png" width=200px>
+<img src="https://cyanaqua.neocities.org/images/drawings/strange.png" width=200px>
 
 My main hobby. I mostly draw **Renko Usami** and **Maribel Hearn** from Touhou project in various artstyles.
 
